@@ -1,7 +1,8 @@
 tasks:
   - name: Lite Server
     init: npm install -g lite-server
-    # command: live-server -p 8080
+    command: live-server
 
 ports:
   - port: 8080
+    onOpen: open-preview
