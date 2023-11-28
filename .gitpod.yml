@@ -1,8 +1,7 @@
+tasks:
+  - name: Lite Server
+    init: npm install -g lite-server
+    # command: live-server -p 8080
 
 ports:
-  - port: 5500
-    onOpen: open-preview
-
-vscode:
-  extensions:
-    - yandeu.five-server
+  - port: 8080
