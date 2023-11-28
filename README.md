@@ -1,6 +1,6 @@
 # A HTML/CSS template on Gitpod
 
-This is a HTML/CSS template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a little setup environment for HTML/CSS wih AlpineJS using Live Server
 
 ## Integration
 
