@@ -1,7 +1,7 @@
 tasks:
   - name: Lite Server
     init: npm install -g lite-server
-    command: live-server
+    command: lite-server
 
 ports:
   - port: 8080
