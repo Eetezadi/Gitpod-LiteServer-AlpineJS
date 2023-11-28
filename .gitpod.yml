@@ -1,8 +1,8 @@
-tasks:
-  - name: Live Server
-    init: npm install -g live-server
-    command: live-server public --port 8080 --no-browser
 
 ports:
-  - port: 8080
+  - port: 5500
     onOpen: open-preview
+
+vscode:
+  extensions:
+    - yandeu.five-server
