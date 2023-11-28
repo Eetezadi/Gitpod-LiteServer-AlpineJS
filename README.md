@@ -1,4 +1,4 @@
-# A AlpineJS template on Gitpod
+# A LiteServer and AlpineJS template on Gitpod
 
 This is a little setup environment for AlpineJS using Lite Server
 
@@ -10,3 +10,6 @@ Click the button below to start a new development environment:
 
 ## Short Info
  * Lite Server serves "public" on port 8080
+ * The index.html is a little AlpineJS demo
+ * Lite-Server refreshed automatically and is shown in Preview
+ * You can access server via Browser, just click arrow on the right top
