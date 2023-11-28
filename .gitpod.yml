@@ -1,7 +1,7 @@
 tasks:
   - name: Live Server
-    init: npm install -g light-server
-    command: light-server -s p 8080
+    init: npm install -g live-server
+    command: live-server -p 8080
 
 ports:
   - port: 8080
